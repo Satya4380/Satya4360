@@ -42,7 +42,7 @@ I'm always excited to connect with fellow students, data enthusiasts, and profes
 - Exchange ideas about analytics
 
 ## 📊 GitHub Stats
-![Satya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satya4360&show_icons=true&theme=radical)
+![Satya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satya4380&show_icons=true&theme=radical)
 
 ## 💡 Fun Fact
 🌟 I believe that every dataset has a story to tell, and I'm passionate about uncovering those stories through data analysis!
