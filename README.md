@@ -1,5 +1,5 @@
 # Hi there, I'm Satya Narayan Dash! 
-
+![Banner](https://img.shields.io/badge/Satya_Narayan_Dash-Data_Science_Enthusiast-blue?style=for-the-badge&logo=python&logoColor=white)
 ## About Me
 I'm a passionate **MSc Computer Science** student at **SKCG(Auto) College, Paralakhemundi**, with a strong interest in **Data Analytics** and aspiring to become a **Data Scientist**. I'm currently exploring the fascinating world of data to uncover insights and drive decision-making through analytical approaches.
 
