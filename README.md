@@ -1,10 +1,6 @@
 # Hi there, I'm Satya Narayan Dash! 
 <p align="center">
   <img src="https://img.shields.io/badge/Satya_Narayan_Dash-Data_Science_Enthusiast-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Visualization-008080?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 ## About Me
 I'm a passionate **MSc Computer Science** student at **SKCG(Auto) College, Paralakhemundi**, with a strong interest in **Data Analytics** and aspiring to become a **Data Scientist**. I'm currently exploring the fascinating world of data to uncover insights and drive decision-making through analytical approaches.
